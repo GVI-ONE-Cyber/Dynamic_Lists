@@ -2,12 +2,12 @@
 #    File: Tunnels
 #    Info: VPNs & Proxies
 # Domains: 626
-# Updated: 8/7/2023
+# Updated: 8/24/2023
 # Creator: ShadowWhisperer (Sean H.)
+# Updated by: GVI ONE Cyber
 #
 #     Based on https://github.com/ShadowWhisperer/BlockLists.git
 #
-
 0000a-fast-proxy.de
 0x3d.lu
 123hideip.com
@@ -449,6 +449,8 @@ surfshark.com
 surfsharkstatus.com
 switchvpn.com
 swordvpn.com
+t.me/evil_proxy
+t.me/evilproxy
 t2w.pw
 talk2m.com
 tenta.io
@@ -632,3 +634,4 @@ zenmate.com
 zoxy.net
 zscalertwo.net
 zwyr157wwiu6eior.com
+expressapisv2.net
