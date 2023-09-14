@@ -6,3 +6,4 @@ This repo contains different lists used for dynamic queries, threat feeds, and w
 - **shady-piracy-streaming** - Illegal/DMCA/Shady movie, tv show, sports, anime, related forums, and other streaming or direct download domains
 - **tunnel-domains** - VPN, Proxy, and other tunnel domains based on @ShadowWhisper's [Tunnels list](https://github.com/ShadowWhisperer/BlockLists/blob/master/Lists/Tunnels)
 - **p2p-filesharing-domains** - Peer-to-peer, filesharing, and torrent tracker domains
+- **malicious-ip-addresses** - IP addresses associated with malicious activity
