@@ -1,5 +1,6 @@
 # List of highly suspicious or identified malicious domains (botnet, malvertising, adware)
 # You can block these without any real issue, some of this junk may be old and irrelevant 
+han.gl
 ophoacit.com
 omnatuor.com
 atservineor.com
@@ -119,10 +120,8 @@ ksaguna.com
 asdboloa.com
 game.co.za
 fubsdgd.com
-#
 # Play Ransomware
 justiceukraine[.]com
-#
 # InterPlanetary File System (IPFS) not strictly malicious, but highly abused
 ipfs.io
 ipfs.tech
