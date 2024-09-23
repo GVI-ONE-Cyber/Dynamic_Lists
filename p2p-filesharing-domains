@@ -1,6 +1,6 @@
 #
 # P2P / FILESHARING / TORRENTS & TRACKERS
-# UPDATED 17NOV23
+# UPDATED 23NOV24 (removed duplicates and re-organized)
 #
 0bin.net
 1337.abcvg.info
@@ -23,6 +23,7 @@
 7tor.org
 7torrents.cc
 aarsen.me
+acod.regrucolo.ru
 aegir.sexy
 all4nothin.net
 alldebrid.com
@@ -59,6 +60,7 @@ bt.okmp3.ru
 bt.xxx-tracker.com
 bt1.archive.org
 bt2.archive.org
+bt4gprx.com
 btbbt.cc
 btbtt.com
 btbtw.com
@@ -165,6 +167,7 @@ filmi-torrents.com
 filmstorrent.xyz
 flashtorrents.org
 free.publictracker.xyz
+free-mp3-download.net
 gamestorrent.co
 gamestorrents.com
 gamestorrents.io
@@ -173,6 +176,7 @@ gaytorrent.ru
 gay-torrents.net
 gktorrent.io
 global-files.net
+glodls.to
 glotorrents.pw
 go-torrent.pro
 grantorrent.fi
@@ -211,19 +215,28 @@ joytorrent.xyz
 juegostorrentpc.net
 katcr.io
 kickass.cm
+kickass.help
+kickass.ltd
 kickass.mrunblock.pro
 kickass.onl
 kickass.to
 kickass2.ch
+kickass2.fun
 kickass2.nz
 kickass2.org
+kickass2.top
+kickass2.xyz
+kickasstorrent.bid
 kickasstorrent.cr
+kickasstorrentcr.top
 kickasstorrents.com
 kickasstorrents.cr
+kickasstorrents.pw
 kickasstorrents.to
 ledger.bt.co
 leech.ie
 lepiratebay.org
+libgen.is
 libtorrent.org
 limetor.com
 limetor.pro
@@ -243,6 +256,7 @@ limetorrents.mrunblock.pro
 limetorrents.online
 limetorrents.pro
 limetorrents.proxyportal.pw
+limetorrents.to
 limetorrents.xyz
 limetorrents.zone
 limetorrentx.cc
@@ -275,6 +289,7 @@ meusfilmestorrents.com
 mgnet.me
 milliontorrent.pl
 mitorrent.org
+mmnt.net
 montreal.nyap2p.com
 moonburrow.club
 movies.zsw.ca
@@ -284,9 +299,12 @@ music-torrent.net
 mybayprox.eu
 mypiratebay.net
 mypiratebay.wtf
+new-line.net
+nextorrent.xyz
 nighthawk.pw
 ninjashare.to
 nosmokingbandit.github.io
+nyaa.si
 nyaa.tracker.wf
 odd-hd.fr
 omgtorrent.me
@@ -308,6 +326,7 @@ opentracker.i2p.rocks
 opentracker.io
 opentracker.xyz
 opentrackers.org
+openwebtorrent.com
 otorrent2.com
 otorrent4.com
 otorrents.com
@@ -417,6 +436,7 @@ public-tracker.cf
 qbittorrent.org
 queentorrent.net
 racker.skynetcloud.site
+rakx.crim.ist
 rapidfileshare.net
 rarbg.com
 rarbg.me
@@ -439,6 +459,9 @@ router.silotis.us
 rstorrent.org.pl
 run.publictracker.xyz
 run-2.publictracker.xyz
+rustorka.com
+rutracker.org
+sabross.xyz
 sanincode.com
 secure.pow7.com
 seedr.cc
@@ -458,6 +481,7 @@ skytorrents.to
 solidtorrents.to
 soundmovie.ru
 streettorrent.pl
+strem.fun
 stremio-addons.netlify.app
 sumotorrent.sx
 super-torrent.pl
@@ -511,6 +535,7 @@ thepiratebay1.top
 thepiratebay10.org
 thepiratebay11.org
 thepiratebay2.to
+thepiratebay3.com
 thepiratebay3.org
 thepiratebay3.to
 thepiratebay9.info
@@ -539,6 +564,7 @@ thepirateway.click
 thinking.duckdns.org
 thouvenin.cloud
 tks.sumy.ua
+torlock.com
 torrends.to
 torrent.by
 torrent.byte.to
@@ -612,6 +638,7 @@ torrent-igruha.org
 torrentigruha.ru
 torrent-igruha.ru
 torrentino.com
+torrentio.strem.fun
 torrentking.eu
 torrentkingnow.co
 torrentkitty.app
@@ -627,6 +654,7 @@ torrentleex.com
 torrentlike.com
 torrentline.net
 torrentlinks.net
+torrentlite.org
 torrentmac.net
 torrentmafya.net
 torrentmax.gg
@@ -731,6 +759,7 @@ tr.fuckbitcoin.xyz
 tr.highstar.shop
 tracker.0o.is
 tracker.0x7c0.com
+tracker.6.babico.name.tr
 tracker.acg.gg
 tracker.ali213.net
 tracker.army
@@ -757,6 +786,7 @@ tracker.fastdownload.xyz
 tracker.fatkhoala.org
 tracker.filemail.com
 tracker.files.fm
+tracker.fnix.net
 tracker.foreverpirates.co
 tracker.frozen-layer.com
 tracker.gamedock.io
@@ -764,6 +794,7 @@ tracker.gamemonkey.org
 tracker.harry.lu
 tracker.imgoingto.icu
 tracker.internetwarriors.net
+tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.istole.it
 tracker.jiesen.life
@@ -815,6 +846,7 @@ tracker.t-rb.org
 tracker.uw0.xyz
 tracker.vanitycore.co
 tracker.x4w.co
+tracker.yemekyedim.com
 tracker.zer0day.to
 tracker1.520.jp
 tracker1.bt.moack.co.kr
@@ -829,12 +861,14 @@ tracker4.itzmx.com
 tracker4.piratux.com
 tracker6.dler.org
 tracker7.dler.org
+trackers.mlsub.net
 tracker-udp.gbitt.info
 trakx.herokuapp.com
 transfer.sh
 transmissionbt.com
 treetorrent.com
 tricitytorrents.com
+ts.populargamers.co.za
 tt-torrent.com
 upeer.me
 uploads.gamecoast.net
@@ -852,6 +886,7 @@ vuze.com
 wambo.club
 wareztorrent.com
 webtorrent.io
+wepzone.net
 wg.mortis.me
 wiki.servarr.comg
 worldwidetorrents.eu
@@ -874,44 +909,5 @@ zippyshare.com
 zombtracker.the-zomb.com
 zonatorrent.org
 zonatorrent.tv
-z-torrents.ru
-new-line.net
-free-mp3-download.net
-bt4gprx.com
-rustorka.com
-rutracker.org
-torrentlite.org
-glodls.to
-torlock.com
 zooqle.com
-libgen.is
-tracker.ipv6tracker.org
-wepzone.net
-t.acg.rip
-bvarf.tracker.sh
-tracker.fnix.net
-ts.populargamers.co.za
-tracker.yemekyedim.com
-trackers.mlsub.net
-acod.regrucolo.ru
-odd-hd.fr
-sabross.xyz
-tracker.6.babico.name.tr
-rakx.crim.ist
-openwebtorrent.com
-tracker.openwebtorrent.com
-strem.fun
-torrentio.strem.fun
-kickass.ltd
-kickass2.fun
-kickass2.top
-kickass2.xyz
-kickasstorrent.bid
-kickasstorrentcr.top
-kickasstorrents.pw
-nyaa.si
-thepiratebay3.com
-kickass.help
-nextorrent.xyz
-mmnt.net
-limetorrents.to
+z-torrents.ru
