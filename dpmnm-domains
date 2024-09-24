@@ -5,6 +5,17 @@
 # ADs and Trackers
 tracker.samplicio.us
 #
+# AI
+# Quillbot
+assets.quillbot.com
+collector.quillbot.com
+libs.quillbot.com
+metrics.quillbot.com
+quillbot.com
+sentry.quillbot.com
+sentry-webapp.quillbot.com
+word.quillbot.com
+#
 # Crypto
 bitflyer.com
 bitpay.com
